@@ -1,0 +1,15 @@
+C:\Users\LokeshBala\OneDrive - Syncfusion\Desktop\Assigment\PartilaClass\PartialClasses2\bin\Debug\net7.0\PartialClasses2.exe
+C:\Users\LokeshBala\OneDrive - Syncfusion\Desktop\Assigment\PartilaClass\PartialClasses2\bin\Debug\net7.0\PartialClasses2.deps.json
+C:\Users\LokeshBala\OneDrive - Syncfusion\Desktop\Assigment\PartilaClass\PartialClasses2\bin\Debug\net7.0\PartialClasses2.runtimeconfig.json
+C:\Users\LokeshBala\OneDrive - Syncfusion\Desktop\Assigment\PartilaClass\PartialClasses2\bin\Debug\net7.0\PartialClasses2.dll
+C:\Users\LokeshBala\OneDrive - Syncfusion\Desktop\Assigment\PartilaClass\PartialClasses2\bin\Debug\net7.0\PartialClasses2.pdb
+C:\Users\LokeshBala\OneDrive - Syncfusion\Desktop\Assigment\PartilaClass\PartialClasses2\obj\Debug\net7.0\PartialClasses2.csproj.AssemblyReference.cache
+C:\Users\LokeshBala\OneDrive - Syncfusion\Desktop\Assigment\PartilaClass\PartialClasses2\obj\Debug\net7.0\PartialClasses2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LokeshBala\OneDrive - Syncfusion\Desktop\Assigment\PartilaClass\PartialClasses2\obj\Debug\net7.0\PartialClasses2.AssemblyInfoInputs.cache
+C:\Users\LokeshBala\OneDrive - Syncfusion\Desktop\Assigment\PartilaClass\PartialClasses2\obj\Debug\net7.0\PartialClasses2.AssemblyInfo.cs
+C:\Users\LokeshBala\OneDrive - Syncfusion\Desktop\Assigment\PartilaClass\PartialClasses2\obj\Debug\net7.0\PartialClasses2.csproj.CoreCompileInputs.cache
+C:\Users\LokeshBala\OneDrive - Syncfusion\Desktop\Assigment\PartilaClass\PartialClasses2\obj\Debug\net7.0\PartialClasses2.dll
+C:\Users\LokeshBala\OneDrive - Syncfusion\Desktop\Assigment\PartilaClass\PartialClasses2\obj\Debug\net7.0\refint\PartialClasses2.dll
+C:\Users\LokeshBala\OneDrive - Syncfusion\Desktop\Assigment\PartilaClass\PartialClasses2\obj\Debug\net7.0\PartialClasses2.pdb
+C:\Users\LokeshBala\OneDrive - Syncfusion\Desktop\Assigment\PartilaClass\PartialClasses2\obj\Debug\net7.0\PartialClasses2.genruntimeconfig.cache
+C:\Users\LokeshBala\OneDrive - Syncfusion\Desktop\Assigment\PartilaClass\PartialClasses2\obj\Debug\net7.0\ref\PartialClasses2.dll
